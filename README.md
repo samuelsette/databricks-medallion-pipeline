@@ -1,3 +1,6 @@
+
+[![30-second visual demo](before-after-demo.png)](before-after-demo.pdf)
+
 # Automotive Data Engineering — Pipeline to Agent Knowledge Workflow
 
 One workflow in two complementary stages:
