@@ -1,5 +1,5 @@
 
-[![30-second visual demo](before-after-demo.png)](before-after-demo.pdf)
+[![30-second visual demo](Docs/before-after-demo.png)](Docs/before-after-demo.pdf)
 
 # Automotive Data Engineering — Pipeline to Agent Knowledge Workflow
 
