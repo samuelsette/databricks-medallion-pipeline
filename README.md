@@ -1,7 +1,7 @@
 
 [![30-second visual demo](Docs/before-after-demo.png)](Docs/before-after-demo.pdf)
 
-A data-analysis pipeline built on a medallion architecture in Databricks, designed so the method is completely independent of the domain of the data and of the user's own workflow --- the same approach works whatever the field, and however someone prefers to work. The workflow ends in a local AI agent that acts as a personal "second brain": it stores the analyses, processes them, and serves as a personal search engine, letting anyone reuse proven patterns, spot potential problems early, and retrieve specific information in seconds --- a clear productivity boost for a single user or an entire team, with no prior domain expertise required.
+A data-analysis pipeline built on a medallion architecture in Databricks, designed so the method is completely independent of the domain of the data and of the user's own workflow --- the same approach works whatever the field, and however someone prefers to work. The workflow ends in a local AI agent that acts as a personal "second brain": it stores the analyses, processes them, and serves as a personal search engine, letting anyone reuse proven patterns, spot potential problems early, and retrieve specific information in seconds --- a productivity boost for a single user or an entire team, with no prior domain expertise required.
 
 # Automotive Data Engineering — Pipeline to Agent Knowledge Workflow
 
